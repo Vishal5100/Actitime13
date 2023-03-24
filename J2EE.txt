@@ -1,0 +1,8 @@
+1 Load & Register the Driver
+	A. Load the Driver 
+	B. Register the Driver
+2 Establish the Connection
+3 Oracle Statement
+4 Execute Statement
+5  the result
+6 Close the connection
